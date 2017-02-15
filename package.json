@@ -1,0 +1,15 @@
+{
+    "name": "gustav-malm.brackets-template-generator",
+    "title": "A simple Template Generator for Adobe's Brackets Text Editor",
+    "description": "An easy to use template generator which creates a very basic HTML/CSS skeleton. Open up/Create a new file, navigate to the menubar called Templates and pick the alternative that best suits your currently active file-extension (.html, .java, .css etc...). WARNING: This will overwrite any existing code currently in your file!",
+    "author": "Gustav Malm",
+    "homepage": "https://github.com/GustavMalm/brackets-template-generator",
+    "version": "1.0.0",
+    "license": "MIT",
+    "i18n": [ "en", "sv-se" ],
+    "package-i18n": {
+        "sv-se": {
+            "description": "En mall för programmeringskodsskelett som är enkel att använda. Öppna/Skapa en fil, klicka sedan på fliken Templates och välj det alternativ anpassat för ditt filtillägg (.html, .java, .css etc...). VARNING: Detta kommer att skriva över eventuell kod i den aktiva filen!"
+        }
+    }
+}

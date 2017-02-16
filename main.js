@@ -13,7 +13,7 @@ define(function (require, exports, module) {
 	var menu = Menus.addMenu("Templates", "gustav-malm.brackets.menu");
 	menu.addMenuItem("gustav-malm.brackets-template-generator.generateHTML");
 	/*
-	*	A function which uses "require" to load a HTML-Template
+	*	A function which uses "require" to load a HTML-Template.
 	*/
 	function getHTMLTemplate() {
 		var template = require('text!assets/templates/template.html');

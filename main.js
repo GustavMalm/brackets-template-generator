@@ -11,7 +11,7 @@ define(function (require, exports, module) {
   * Creates a custom menu.
   */
 	var menu = Menus.addMenu("Templates", "gustav-malm.brackets.menu");
-	menu.addMenuItem("gustav-malm.brackets-template-generator.generateHTML");
+	menu.addMenuItem("gustav-malm.brackets-template-generator.generateHTML", "Ctrl-Alt-Shift-H");
 	/*
 	*	A function which uses "require" to load a HTML-Template.
 	*/
